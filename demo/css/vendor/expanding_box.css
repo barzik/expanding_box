@@ -1,0 +1,13 @@
+.expanding_buttons {
+    background-repeat: no-repeat;
+    cursor: pointer;
+    padding-left: 30px;
+}
+
+.expanding_buttons.more {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjEwMPRyoQAAAD5JREFUOE9jOEM6YCBdyxmonv/EAYgFA66nrKwM070E3EZjPUDjMQHckQPrNrgzyAkDrAljQNIBSambnLwAAInNAzTfzs9sAAAAAElFTkSuQmCC');
+}
+
+.expanding_buttons.less {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjEwMPRyoQAAAC5JREFUOE9jOEM6YCBdyxmonv/EAYgFo3oww6AMG4AH6mi4/f9PcRiQlLrJyQsALIAM1p6s3bEAAAAASUVORK5CYII=');
+}
